@@ -1,4 +1,4 @@
-# Regulamin Zawodów Wyścigów Modeli Zdalnie Sterowanych
+# Regulamin Wyścigów Modeli Zdalnie Sterowanych
 
 ### 1. Postanowienia ogólne
 1.1. Niniejszy regulamin określa zasady organizacji oraz przebiegu zawodów wyścigów modeli zdalnie sterowanych.
