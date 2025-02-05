@@ -50,12 +50,14 @@
 
 5.3. Uczestnicy zobowiązani są do zachowania ostrożności i stosowania się do poleceń organizatorów.
 
+5.4. Przystąpienie do zawodów oznacza akceptację niniejszego regulaminu.
+
 ---
 
 <center>
    <img src="plakat.png" widht="300px">
 </center>
 
-5.4. Przystąpienie do zawodów oznacza akceptację niniejszego regulaminu.
+
 
 
