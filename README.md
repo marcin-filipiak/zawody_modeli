@@ -1,6 +1,7 @@
 # Regulamin Wyścigów Modeli Zdalnie Sterowanych
 
 ### 1. Postanowienia ogólne
+
 1.1. Niniejszy regulamin określa zasady organizacji oraz przebiegu zawodów wyścigów modeli zdalnie sterowanych.
 
 1.2. Organizatorem zawodów jest Zespół Szkół Elektronicznych Elektrycznych i Mechanicznych w Bielsku-Białej im. Jędrzeja Śniadeckiego wraz z opiekunami technicznymi.
@@ -12,6 +13,7 @@
 1.5. Udział w zawodach jest bezpłatny.
 
 ### 2. Zasady uczestnictwa
+
 2.1. Każdy uczestnik lub zespół może zgłosić jeden model zdalnie sterowany.
 
 2.2. Model może być wykonany samodzielnie przez uczestnika lub przy wsparciu zespołu (np. druk 3D, Arduino, inne technologie).
@@ -44,6 +46,7 @@
 4.2. Organizator może przyznać wyróżnienia dla najbardziej kreatywnych rozwiązań technicznych.
 
 ### 5. Postanowienia końcowe
+
 5.1. Organizator zastrzega sobie prawo do zmiany regulaminu oraz zasad przeprowadzania zawodów w przypadku nieprzewidzianych okoliczności przed rozpoczęciem zawodów.
 
 5.2. Organizator nie ponosi odpowiedzialności za ewentualne uszkodzenia modeli w trakcie zawodów.
