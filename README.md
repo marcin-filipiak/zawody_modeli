@@ -18,7 +18,7 @@
 
 2.2. Model może być wykonany samodzielnie przez uczestnika lub przy wsparciu zespołu (np. druk 3D, Arduino, inne technologie).
 
-2.3. Model musi mieć napęd elektryczny i nie może przekraczać określonych wymiarów (maksymalna długość: 40 cm, szerokość: 25 cm, wysokość: 20 cm).
+2.3. Model musi mieć napęd elektryczny i nie może przekraczać określonych wymiarów (maksymalna długość: 40 cm, szerokość: 35 cm, wysokość: 20 cm).
 
 2.4. Modele z napędem spalinowym lub innymi niebezpiecznymi źródłami energii są niedozwolone.
 
